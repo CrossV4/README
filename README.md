@@ -9,9 +9,9 @@ Anadolu Üniversitesi Bilgisayar Programcılığı bölümünü Onur Öğrencisi
 
 # **ÖNE ÇIKAN YETKİNLİKLER VE TEKNOLOJİLER**
 
-* **Yazılım & Programlama:** C\#, Java, PHP, Dart/Flutter, .NET, HTML5, CSS5, JavaScript, Node.js, SQL / MariaDB  
-* Oyun & Uygulama Geliştirme: Unity (WebGL & 3D Engine), Shader / C\# Optimization, Riptide Networking, Google Play Publishing  
-* Proje & Sistem Yönetimi: POS & Restoran Yazılımları, Uçtan Uca Ürün Mimarisi, Akıllı Şehir Solutions, Veri Analizi, İleri Excel  
+* **Yazılım & Programlama:** C\#, Java, PHP, Dart/Flutter, .NET, HTML5, CSS3, JavaScript, Node.js, SQL / MariaDB  
+* **Oyun & Uygulama Geliştirme:** Unity (WebGL & 3D Engine), Shader / C\# Optimization, Riptide Networking, Google Play Publishing  
+* **Proje & Sistem Yönetimi:** POS & Restoran Yazılımları, Uçtan Uca Ürün Mimarisi, Akıllı Şehir Solutions, Veri Analizi, İleri Excel  
 * **Yönetim & Liderlik:** Ekip Sevk ve İdaresi, Kriz Yönetimi, Çapraz Fonksiyonel Takım Koordinasyonu, Stratejik Planlama
 
 # **PROFESYONEL DENEYİM & GELİŞTİRİLEN SİSTEMLER**
@@ -39,6 +39,8 @@ Anadolu Üniversitesi Bilgisayar Programcılığı bölümünü Onur Öğrencisi
 
 ## **WoVoo — Proje Lideri & Sistem Mimarı**
 
+Ağustos 2026 \- Günümüz
+
 * 1v1 canlı görüntülü görüşme ve harita tabanlı konum eşleşmesini birleştiren modern dating (arkadaşlık) uygulamasının full-stack altyapısını ve Flutter/Node.js mimarisini tasarladı.
 
 ## **CHP Karabük İl Başkanlığı — İl Bilişim Sorumlusu**
@@ -56,8 +58,8 @@ Anadolu Üniversitesi Bilgisayar Programcılığı bölümünü Onur Öğrencisi
 **Yeni Nesil Belediyecilik (Akıllı Şehir Takip Sistemi)**  
 Canlı toplu taşıma takibi, hat optimizasyonu ve Türkiye Kart entegreli kamu yönetim çözümü.
 
-**BiSefer (Dijital Nakliye Pazaryeri)**  
-Lojistik süreçleri dijitalleştirerek yük sahipleri ile sürücüleri buluşturan serbest zamanlı iş platformu.
+**BiSefer (*Diğer Stratejik Projeler & Modeller*)**   
+Dijital Nakliye Pazaryeri olarak kurgulanmıştır. Lojistik süreçleri dijitalleştirerek yük sahipleri ile sürücüleri buluşturan serbest zamanlı iş platformu.
 
 # **EĞİTİM**
 
