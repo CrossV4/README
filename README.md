@@ -87,7 +87,9 @@ Dijital Nakliye Pazaryeri olarak kurgulanmıştır. Lojistik süreçleri dijital
 ## **MEB & e-Devlet**
 
 * Bilgisayar İşletmenliği (Operatörlüğü)  
-  21118020230079644325 \- 03.04.2023  
+
+		21118020230079644325 \- 03.04.2023
+  
 * İleri Excel Geliştirme ve Uyum Eğitimi
 
 		21118020230083026863 \- 23.08.2023
@@ -99,7 +101,9 @@ Dijital Nakliye Pazaryeri olarak kurgulanmıştır. Lojistik süreçleri dijital
 ## **SoloLearn**
 
 * Java Developer Certificate  
-  CT-GRMWFCB6  
+
+		CT-GRMWFCB6
+  
 * C\# Developer Certificate
 
 		CT-CEVPQZLL
